@@ -1,8 +1,8 @@
-# Hi, I'm Mauro 👋
+# Hi, I'm Mauro 
 
 Web Development student focused on software development and AI.
 
-## 🚀 Currently learning
+##  Currently learning
 
 - Java
 - JavaScript
