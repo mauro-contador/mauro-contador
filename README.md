@@ -1,32 +1,56 @@
-# Hi, I'm Mauro 
+# Hi, I'm Mauro
 
-Web Development student focused on software development and AI.
+Second-year Web Application Development (DAW) student based in Seville, Spain.
 
-##  Currently learning
+I am currently building my foundations in frontend and backend development,
+with a focus on writing better code, understanding software development
+and gaining experience through real projects.
 
-- Java
+## Technologies
+
+### Frontend
+- HTML5
+- CSS3
 - JavaScript
-- HTML & CSS
+
+### Backend & Data
+- PHP
+- Java
 - SQL
-- Git & GitHub
-- Python
-- AI & LLMs
+- Supabase
 
-##  Goals
+### Tools
+- Git
+- GitHub
+- Docker
+- VS Code
 
-- Become a strong software developer
-- Build real-world web applications
-- Develop practical AI projects
-- Improve my English and work internationally
+### Currently learning
+- Laravel
+- Angular
+- Software architecture
+- AI applied to software development
 
-## Education
+## Featured projects
 
-**Web Application Development (DAW)**  
-Spain
+### Lab Manager
+Web application designed to manage jobs and workflow in a dental laboratory.
 
-## Projects
+Technologies: HTML, CSS, JavaScript, Supabase
 
-Coming soon...
+### Object-Oriented Programming
+Collection of exercises and projects developed during my DAW studies,
+focused on Java and object-oriented programming.
+
+### JavaScript / DWEC
+Exercises and practical work covering JavaScript fundamentals,
+functions, arrays, objects, regular expressions and DOM concepts.
+
+## Currently
+
+- Studying 2nd year of DAW
+- Looking for an internship starting February 2027
+- Building projects to improve my development skills
 
 ---
 
