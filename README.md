@@ -1,57 +1,30 @@
-# Hi, I'm Mauro
+# Mauro Contador Alfonso
 
-Second-year Web Application Development (DAW) student based in Seville, Spain.
+**2nd-year Web Application Development (DAW) student · Seville, Spain**
 
-I am currently building my foundations in frontend and backend development,
-with a focus on writing better code, understanding software development
-and gaining experience through real projects.
+I'm building my foundations in software development by combining coursework with practical web projects. My interests are backend and full-stack development, writing understandable code, and exploring how AI can support software engineering.
 
-## Technologies
+## Technologies I'm learning and using
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+- **Web:** HTML, CSS, JavaScript, PHP
+- **Programming & data:** Java, SQL, MySQL
+- **Tools:** Git, GitHub, Docker, VS Code
 
-### Backend & Data
-- PHP
-- Java
-- SQL
-- Supabase
+These are technologies I work with during my studies—not a claim of professional-level mastery.
 
-### Tools
-- Git
-- GitHub
-- Docker
-- VS Code
+## Public learning repositories
 
-### Currently learning
-- Laravel
-- Angular
-- Software architecture
-- AI applied to software development
+- [JavaScript · DAW](https://github.com/mauro-contador/daw-javascript) — Coursework and practice, from JavaScript fundamentals to DOM manipulation and events.
+- [Object-oriented programming · Java](https://github.com/mauro-contador/daw-programacion-orientada-objetos) — Exercises from the first year of DAW, including OOP, collections, exceptions and files.
 
-## Featured projects
+## Personal projects
 
-### Lab Manager
-Web application designed to manage jobs and workflow in a dental laboratory.
-
-Technologies: HTML, CSS, JavaScript, Supabase
-
-### Object-Oriented Programming
-Collection of exercises and projects developed during my DAW studies,
-focused on Java and object-oriented programming.
-
-### JavaScript / DWEC
-Exercises and practical work covering JavaScript fundamentals,
-functions, arrays, objects, regular expressions and DOM concepts.
+I'm also working on projects outside the classroom, including **Di Olvre**, the website for my clothing brand. I plan to share more of my work as individual projects become ready to present.
 
 ## Currently
 
-- Studying 2nd year of DAW
-- Looking for an internship starting February 2027
-- Building projects to improve my development skills
+- Studying the second year of DAW.
+- Improving problem-solving, debugging and web development fundamentals.
+- Learning to use AI development tools critically, without losing sight of how the code works.
 
----
-
-Always learning. Always building.
+**Connect:** [LinkedIn](https://www.linkedin.com/in/mauro-contador-alfonso-8a686b44a/)
